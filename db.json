@@ -1,0 +1,53 @@
+{
+	"carriers": [{
+		"id": 1,
+		"name": "The first test carrier",
+		"payerDestination": "CPS5010",
+		"type": "Carrier"
+	}, {
+		"id": 2,
+		"name": "The second test carrier",
+		"payerDestination": "TESIA5010",
+		"type": "Carrier"
+	}, {
+		"id": 3,
+		"name": "The third test carrier",
+		"payerDestination": "CPS5010",
+		"type": "Carrier"
+	}, {
+		"id": 4,
+		"name": "The fourth test carrier",
+		"payerDestination": "TESIA5010",
+		"type": "Carrier"
+	}, {
+		"id": 5,
+		"name": "The fifth test carrier",
+		"payerDestination": "CPS5010",
+		"type": "Carrier"
+	}, {
+		"id": 6,
+		"name": "The sixth test carrier",
+		"payerDestination": "TESIA5010",
+		"type": "Carrier"
+	}, {
+		"id": 7,
+		"name": "The seventh test carrier",
+		"payerDestination": "CPS5010",
+		"type": "Carrier"
+	}, {
+		"id": 8,
+		"name": "The eights test carrier",
+		"payerDestination": "TESIA5010",
+		"type": "Carrier"
+	}, {
+		"id": 9,
+		"name": "The ninth test carrier",
+		"payerDestination": "CPS5010",
+		"type": "Carrier"
+	}, {
+		"id": 10,
+		"name": "The tenth test carrier",
+		"payerDestination": "TESIA5010",
+		"type": "Carrier"
+	}]
+}
